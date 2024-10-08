@@ -1,0 +1,24 @@
+{
+  "name": "thedraggable",
+  "version": "1.0.1",
+  "description": "\"A lightweight and customizable draggable component for React applications. Allows elements to be moved via mouse or touch, with precise control over coordinates. Includes a built-in button to programmatically position the draggable component anywhere on the screen. Ideal for interactive UI/UX designs.\"",
+  "main": "src/DraggableComponent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khaled mohamed",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.7",
+    "@babel/preset-env": "^7.25.7",
+    "@babel/preset-react": "^7.25.7"
+  }
+}
